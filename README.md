@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Flutter developer from India</p>
+<p align="center">A passionate Flutter developer from India</p>
 
 ###
 
