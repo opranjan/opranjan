@@ -63,7 +63,9 @@
 
 ---
 
-### 🔗 Most Used Languages:
+### 📊 Most Used Languages:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmprakashRanjan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
