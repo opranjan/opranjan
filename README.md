@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋 Omprakash Ranjan</h1>
+<h1 align="center">Hi 👋 Omprakash Ranjan</h1>
 
 ###
 
-<p align="center">A passionate Flutter developer from India</p>
+<h3 align="center">A passionate Flutter developer from India</p>
 
 ###
 
