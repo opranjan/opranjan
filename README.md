@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">A passionate Flutter developer from India</p>
+<h2 align="center">A passionate Flutter developer from India</p>
 
 ###
 
-<h2 align="left">I am a passionate Mobile Application Developer with a knack for crafting intuitive and robust mobile experiences. With expertise in Flutter, Android, and React Native, I love building apps that deliver seamless user experiences across platforms.</h2>
+<p align="left">I am a passionate Mobile Application Developer with a knack for crafting intuitive and robust mobile experiences. With expertise in Flutter, Android, and React Native, I love building apps that deliver seamless user experiences across platforms.</h2>
 
 ###
 
