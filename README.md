@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I am a passionate Mobile Application Developer with a knack for crafting intuitive and robust mobile experiences. With expertise in Flutter, Android, and React Native, I love building apps that deliver seamless user experiences across platforms.</h2>
 
 ###
 
