@@ -44,7 +44,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
    <img width="48%"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opranjan&layout=compact&theme=radical" alt="Most Used Languages" />
 
   <!-- GitHub Stats -->
@@ -55,7 +55,7 @@
 
 ### 🏆 GitHub Trophies:
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=opranjan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Omprakash's GitHub Trophies" />
 </p>
 
