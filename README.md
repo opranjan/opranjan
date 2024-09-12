@@ -47,8 +47,7 @@
 </p>
 
 ---
-
- ###🔥Most Used Languages
+###🔥Most Used Languages:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
 
