@@ -4,10 +4,11 @@
   I am a passionate Mobile Application Developer experienced in Flutter, Android, and React Native. I also have knowledge of the MERN stack.
 </p>
 
-### Profile Views:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Profile Views
+
+**Profile Views: 1234**
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
