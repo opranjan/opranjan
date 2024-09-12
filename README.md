@@ -31,23 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmprakashRanjan&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Omprakash's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmprakashRanjan&layout=compact&langs_count=8&theme=tokyonight" alt="Omprakash's Top Languages" />
-</p>
-
----
-
-### 🔥 Streak Stats:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmprakashRanjan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-###🔥Most Used Languages:
+**###🔥Most Used Languages:**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
 
