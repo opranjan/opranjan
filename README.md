@@ -58,7 +58,7 @@
 
 <p align="left">
   <!-- Contributions -->
-    [![GitHub Streak](https://streak-stats.demolab.com?user=github.com%2Fopranjan&theme=dark&border_radius=3.8)](https://git.io/streak-stats)
+      <img width="48%" src="https://streak-stats.demolab.com?user=opranjan&theme=dark" alt="Current Streak" />
 </p>
 
 ---
