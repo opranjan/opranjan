@@ -4,10 +4,11 @@
   I am a passionate Mobile Application Developer experienced in Flutter, Android, and React Native. I also have knowledge of the MERN stack.
 </p>
 
-### 👀 Profile Views:
+### Profile Views:
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_REPOSITORY" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 
 
