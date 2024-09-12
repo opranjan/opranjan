@@ -53,6 +53,16 @@
 
 ---
 
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=opranjan&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Omprakash's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opranjan&layout=compact&langs_count=8&theme=tokyonight" alt="Omprakash's Top Languages" />
+</p>
+
+---
+
 ### 🔥 Contribution Stats
 
 <p align="left">
