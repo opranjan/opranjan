@@ -59,7 +59,7 @@
 
 ### 🔥 Contribution Stats
 
-<p align="center">
+<p align="left">
   <!-- Contributions -->
   <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Current Streak" />
 </p>
