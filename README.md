@@ -48,25 +48,33 @@
 
 ---
 
-### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmprakashRanjan&theme=tokyonight&no-frame=true&row=1&column=7" alt="Omprakash's GitHub Trophies" />
+  <!-- Most Used Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📊 Most Used Languages:
+### 🔥 Contribution Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmprakashRanjan&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Contributions -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Current Streak" />
+
+  <!-- Total Contributions -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Total Contributions" />
 </p>
 
 ---
 
-### 🔥 Contribution Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmprakashRanjan&theme=radical" alt="Contribution Streak" />
-</p>
+### 🏆 GitHub Trophies
 
----
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=6" alt="Trophies" />
+</p>
 
