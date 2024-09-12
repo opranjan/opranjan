@@ -50,7 +50,7 @@
 
 
 <p align="center">
-  <!-- Most Used Languages -->
+  ###🔥Most Used Languages
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" />
 
   <!-- GitHub Stats -->
@@ -64,17 +64,8 @@
 <p align="center">
   <!-- Contributions -->
   <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Current Streak" />
-
-  <!-- Total Contributions -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Total Contributions" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&row=1&column=6" alt="Trophies" />
-</p>
 
