@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Omprakash Ranjan 👋</h1>
 
-<p align="center">
+<h3 align="center">
   I am a passionate Mobile Application Developer experienced in Flutter, Android, and React Native. I also have knowledge of the MERN stack.
 </p>
 
