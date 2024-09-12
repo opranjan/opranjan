@@ -58,7 +58,7 @@
 
 <p align="left">
   <!-- Contributions -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Current Streak" />
+     <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Current Streak" />
 </p>
 
 ---
